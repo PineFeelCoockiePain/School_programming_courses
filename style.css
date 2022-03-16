@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+body{
+    max-width: 414px;
+    max-height: 100%;
+}
+
+/* upeer menu */
+.upper_menu {
+    height: auto;
+    position: fixed;
+    column-count: 3;
+    
+}
+
+.logo {
+    
+}
+.logo img {
+max-width: 150px;
+max-height: auto;
+}
+.new_post {
+    
+}
+.new_post img {
+max-width: 35px;
+}
+.message {
+    
+}
+.message img {
+max-width: 35px;
+}
+
+
+/* upeer menu */
+
+/*buttom menu*/
+
+/* buttom menu */
