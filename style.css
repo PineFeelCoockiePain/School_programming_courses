@@ -59,7 +59,12 @@ body {
 
 
 
-/*  stories */
+/*  stori */
+.stori {
+    width: auto;
+    height: auto;
+    border-bottom: 2px solid #e6e6e6;
+}
 .stories {
     position: relative;
     width: 20px;
@@ -77,14 +82,17 @@ body {
     right: -5px;
     bottom: -5px;
     z-index: -1;
-    background: var(--gradient);
 }
 .avatar {
-    padding: 50px;
-    width: 30px;
-    height: 30px;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding: 3px;
+    width: 50px;
+    height: 50px;
+    background: var(--gradient);
 }
-/*  stories */
+/*  stori */
 
 
 
@@ -99,24 +107,6 @@ body {
     border-top: 1px solid #e6e6e6;
     z-index: 10;
     background-color: #fff;
-}
-.bottom_menu {
-
-}
-.home {
-
-}
-.search {
-
-}
-.story {
- 
-}
-.activity {
-
-}
-.profile{
-    
 }
 .profile img {
     border-radius: 50%;
