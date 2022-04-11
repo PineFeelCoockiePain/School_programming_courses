@@ -129,37 +129,3 @@ body {
     height: 100%;
 }
 /*  bottom menu */
-
-/*  scroll */
-.scrollToTop{
-    opacity:0;
-    width:40px;
-    height:40px;
-    position:fixed;
-    bottom:50px;
-    right:10px;
-    z-index:500;
-    transition: all .5s ease-in-out;
-    text-align:center;
-    cursor:pointer;
-    border:1px solid transparent;
-    border-radius:4px;
-    background:#555;
-} 
-.scrollToTop span{
-    margin-top:12px;
-    color:#FFF;
-}
-.showScrollTop{
-    font-size:14px;
-    opacity:0.5;
-    margin-bottom: 50px;
-}
-.scrollToTop:hover{
-    background-color:#46A6BF;
-    border-radius:100%;
-}
-.scrollToTop:active{
-    background-color:#46A6BF;
-}
-/*  scroll */
