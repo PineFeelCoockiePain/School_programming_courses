@@ -97,8 +97,6 @@ body {
 .container {
     width: 100%;
 }
-.publs {
-}
 .fl {
     display: flex;
 }
@@ -160,16 +158,13 @@ body {
 .fl-jc-sb {
     justify-content: space-between;
 }
-.fal {
-}
-.fa-2x {
-}
 .publ__like {
     margin: 10px 0;
     font-size: .9em;
     font-weight: bold;
 }
-.description {
+.wh {
+    width: 42px;
 }
 .time {
     font-size: .7em;
