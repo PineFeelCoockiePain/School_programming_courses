@@ -44,13 +44,15 @@ body {
     
 }
 .new_post img {
-    max-width: 30px;
+    width: 30px;
+    height: auto;
 }
 .message {
     padding: 10px 0px 0px 79px;
 }
 .message img {
     max-width: 30px;
+    height: auto;
     }
 /*  upeer menu  */
 
@@ -104,6 +106,9 @@ body {
     border-top: 1px solid #e6e6e6;
     z-index: 10;
     background-color: #fff;
+}
+.bottom_menu {
+    padding-bottom: 10px;
 }
 .profile img {
     border-radius: 50%;
